@@ -1,0 +1,3 @@
+GIT: Sistema de control de versiones que permite tener un control de las modificaciones
+ y versiones de los archivos de un proyecto, y las almacena en repositorios locales.
+GITHUB: es una plataforma en la que se pueden crear repositorios remotos para almacenar estas versiones de los archivos.
